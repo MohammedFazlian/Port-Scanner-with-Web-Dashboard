@@ -53,4 +53,4 @@ and TryHackMe.
 
 Mohammed Fazlian
 Cybersecurity Enthusiast
-[LinkedIn] | [Email]
+mdfazlian30@gmail.com
